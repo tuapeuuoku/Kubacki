@@ -1,0 +1,52 @@
+body
+{
+width: 100%;
+
+}
+
+.naglowek 
+{
+    background-color: purple;
+    position: fixed;
+    width: 100%;
+    
+}
+.guzik
+{
+    width: 90%;
+    position: fixed; 
+    bottom: 1px;
+    text-align: center;
+}
+.column1 {
+    background-color: yellow;
+    width: 20%;
+    float: left;
+    margin: 1%;
+    padding: 1%;
+}
+
+.column2 {
+    background-color: rgb(100, 0, 23);
+    width: 20%;
+    float: left;
+    margin: 1%;
+    padding: 1%;
+}
+
+.column3 {
+    background-color: rgb(255, 0, 120);
+    width: 20%;
+    float: left;
+    margin: 1%;
+    padding: 1%;
+}
+
+.column4 {
+    background-color: rgb(0, 149, 128);
+    width: 20%;
+    float: left;
+    margin: 1%;
+    padding: 1%;
+}
+

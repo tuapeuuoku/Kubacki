@@ -1,0 +1,37 @@
+body
+{
+width: 800px;
+margin : 0px auto;
+background-color: rgb(255, 0, 0);
+text-align: center;
+}
+
+.tytul 
+{
+    background-color: darkblue;
+    width: 100%;
+}
+
+.guzik
+{
+    width: 800px;
+    position: fixed; 
+    bottom: 1px;
+    text-align: right;
+}
+
+.column1 {
+    background-color: rgb(221, 155, 0);
+    width: 390px;
+    float: left;
+    padding: 2px;
+    margin: 2px;
+}
+
+.column2 {
+    background-color: rgb(238, 67, 0);
+    width: 390px;
+    float: right;
+    padding: 2px;
+    margin: 2px;
+}
